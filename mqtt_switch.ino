@@ -1,5 +1,7 @@
 
 /*
+Taken from http://www.esp8266.com/viewtopic.php?f=29&t=8746 
+and modified for homeassistant and U4648
 
  It connects to an MQTT server then:
   - on 0 switches off relay
